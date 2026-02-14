@@ -1,0 +1,34 @@
+DSA (Data Structures and Algorithms) is the foundation of programming that helps you store data efficiently and solve problems in an optimized way.
+###
+A data structure is a way to organize and store data so it can be used efficiently.
+
+Examples:
+
+Array – stores elements in a sequence
+
+Linked List – elements connected using pointers
+
+Stack – follows LIFO (Last In First Out)
+
+Queue – follows FIFO (First In First Out)
+
+Tree – hierarchical structure
+
+Graph – network of connected nodes
+
+Hash Table – key-value storage
+###
+
+An algorithm is a step-by-step procedure to solve a problem.
+
+Examples:
+
+Searching (Linear Search, Binary Search)
+
+Sorting (Bubble Sort, Merge Sort, Quick Sort)
+
+Recursion
+
+Dynamic Programming
+
+Greedy algorithms
