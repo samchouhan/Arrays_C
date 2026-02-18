@@ -1,3 +1,6 @@
 ->Time Complexity
 
 Rate of increase in time with respect to input size.
+
+Best CASE
+Worst CASE
