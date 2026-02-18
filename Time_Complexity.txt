@@ -3,4 +3,7 @@
 Rate of increase in time with respect to input size.
 
 Best CASE
+Average CASE
 Worst CASE
+
+#Calculate Time Complexity in worst case.
